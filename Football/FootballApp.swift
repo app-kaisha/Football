@@ -2,7 +2,7 @@
 //  FootballApp.swift
 //  Football
 //
-//  Created by stephen nutman on 24/12/2025.
+//  Created by app-kaihatsusha on 24/12/2025.
 //
 
 import SwiftUI
